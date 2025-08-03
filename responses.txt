@@ -1,0 +1,10 @@
+hello: Hello! How can I assist you today?
+help: I'm here to help! You can ask me about our services, pricing, or anything else you need assistance with.
+unknown: I'm sorry, I didn't understand that. Could you please rephrase?
+thanks: You're welcome! If you have any more questions, feel free to ask.
+contact: You can contact us via email at help@gmail.com
+your name: I'm ChatBuddy, your assistant.
+bye: Goodbye! Have a nice day!
+time: I'm not sure about the exact time, but you can check your device's clock.
+weather: I don't have real-time weather information, but you can check a weather app or website for updates.
+location: I don't have access to your location
