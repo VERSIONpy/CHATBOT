@@ -13,9 +13,9 @@ print("Loaded keys:", list(responses.keys()))
 while True:
     user_input = input("You: ").strip().lower()
     if user_input in responses:
-        print("ChatBuddy: " + responses[user_input])
-        if user_input == "bye":
+        print("VERSION: " + responses[user_input])
+        if user_input == "bye":   
             break
     else:
-        print("ChatBuddy:" + responses.get("unknown"))
+        print("VERSION:" + responses.get("unknown"))
         
