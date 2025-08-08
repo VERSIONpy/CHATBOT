@@ -17,5 +17,5 @@ while True:
         if user_input == "bye":   
             break
     else:
-        print("VERSION:" + responses.get("unknown"))
+        print("VERSION:" + responses.get("unknown", "Sorry, I didn't get that."))
         
